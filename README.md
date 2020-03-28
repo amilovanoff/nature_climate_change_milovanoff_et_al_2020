@@ -2,9 +2,9 @@ This repository contains the raw data of the inputs and results presented in the
 <sup>a</sup> Department of Civil & Mineral Engineering, University of Toronto, 35 St. George Street, Toronto, Ontario, M5S 1A4 Canada  
 
 # How to use this repository
-This repository will not be updated and contains all numerical results presented in the figures of the manuscript and the supplementary information. Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.
+This repository will not be updated and contains all numerical results presented in the figures of the manuscript and the supplementary information. Feel free to contact me if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.
 
 # Repository description
 The repository comprises 2 folders.
-* [paper](https://github.com/amilovanoff/nature_climate_change_milovanoff_et_al_2020/tree/master/paper): Contains the raw data presented in the figures of paper.
-* [si](https://github.com/amilovanoff/nature_climate_change_milovanoff_et_al_2020/tree/master/si): Contains the raw data presented in the figures of supplementary information.
+* [paper](https://github.com/amilovanoff/nature_climate_change_milovanoff_et_al_2020/tree/master/paper): Contains the raw data presented in the figures of the paper.
+* [si](https://github.com/amilovanoff/nature_climate_change_milovanoff_et_al_2020/tree/master/si): Contains the raw data presented in the figures of the supplementary information.
