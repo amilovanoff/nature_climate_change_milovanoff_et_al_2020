@@ -1,0 +1,121 @@
+"Technology","Year","Scenario","Unit","Value"
+"Biomass",2020,"SSP1-2.6","EJ",0.0820335
+"Biomass (CCS)",2020,"SSP1-2.6","EJ",0
+"Coal",2020,"SSP1-2.6","EJ",7.50318
+"Coal (CCS)",2020,"SSP1-2.6","EJ",0
+"Gas",2020,"SSP1-2.6","EJ",3.65022
+"Gas (CCS)",2020,"SSP1-2.6","EJ",0
+"Liquids",2020,"SSP1-2.6","EJ",0.0939689
+"Liquids (CCS)",2020,"SSP1-2.6","EJ",0
+"Nuclear",2020,"SSP1-2.6","EJ",3.029467
+"Other renewable",2020,"SSP1-2.6","EJ",5.655552337682
+"Biomass",2030,"SSP1-2.6","EJ",0.1227911
+"Biomass (CCS)",2030,"SSP1-2.6","EJ",0.00620229
+"Coal",2030,"SSP1-2.6","EJ",7.304471
+"Coal (CCS)",2030,"SSP1-2.6","EJ",0.0335749
+"Gas",2030,"SSP1-2.6","EJ",3.999134
+"Gas (CCS)",2030,"SSP1-2.6","EJ",0.071666
+"Liquids",2030,"SSP1-2.6","EJ",0.1042421
+"Liquids (CCS)",2030,"SSP1-2.6","EJ",0.00529972
+"Nuclear",2030,"SSP1-2.6","EJ",3.082175
+"Other renewable",2030,"SSP1-2.6","EJ",7.435113454602
+"Biomass",2040,"SSP1-2.6","EJ",0.1924318
+"Biomass (CCS)",2040,"SSP1-2.6","EJ",0.0242693
+"Coal",2040,"SSP1-2.6","EJ",6.46886
+"Coal (CCS)",2040,"SSP1-2.6","EJ",0.1145333
+"Gas",2040,"SSP1-2.6","EJ",4.127692
+"Gas (CCS)",2040,"SSP1-2.6","EJ",0.220298
+"Liquids",2040,"SSP1-2.6","EJ",0.1028512
+"Liquids (CCS)",2040,"SSP1-2.6","EJ",0.0138688
+"Nuclear",2040,"SSP1-2.6","EJ",3.19609
+"Other renewable",2040,"SSP1-2.6","EJ",9.837458749802
+"Biomass",2050,"SSP1-2.6","EJ",0.278398
+"Biomass (CCS)",2050,"SSP1-2.6","EJ",0.0530995
+"Coal",2050,"SSP1-2.6","EJ",5.261108
+"Coal (CCS)",2050,"SSP1-2.6","EJ",0.216412
+"Gas",2050,"SSP1-2.6","EJ",4.07736
+"Gas (CCS)",2050,"SSP1-2.6","EJ",0.397251
+"Liquids",2050,"SSP1-2.6","EJ",0.0898162
+"Liquids (CCS)",2050,"SSP1-2.6","EJ",0.0203901
+"Nuclear",2050,"SSP1-2.6","EJ",3.45325
+"Other renewable",2050,"SSP1-2.6","EJ",12.68965492728
+"Biomass",2020,"SSP2-2.6","EJ",0.0906519
+"Biomass (CCS)",2020,"SSP2-2.6","EJ",0
+"Coal",2020,"SSP2-2.6","EJ",8.20566
+"Coal (CCS)",2020,"SSP2-2.6","EJ",0
+"Gas",2020,"SSP2-2.6","EJ",4.11062
+"Gas (CCS)",2020,"SSP2-2.6","EJ",0
+"Liquids",2020,"SSP2-2.6","EJ",0.1015947
+"Liquids (CCS)",2020,"SSP2-2.6","EJ",0
+"Nuclear",2020,"SSP2-2.6","EJ",3.234691
+"Other renewable",2020,"SSP2-2.6","EJ",5.235794863516
+"Biomass",2030,"SSP2-2.6","EJ",0.1622312
+"Biomass (CCS)",2030,"SSP2-2.6","EJ",0.01221638
+"Coal",2030,"SSP2-2.6","EJ",8.281288
+"Coal (CCS)",2030,"SSP2-2.6","EJ",0.075571
+"Gas",2030,"SSP2-2.6","EJ",4.71613
+"Gas (CCS)",2030,"SSP2-2.6","EJ",0.123987
+"Liquids",2030,"SSP2-2.6","EJ",0.1261056
+"Liquids (CCS)",2030,"SSP2-2.6","EJ",0.00892875
+"Nuclear",2030,"SSP2-2.6","EJ",3.57691
+"Other renewable",2030,"SSP2-2.6","EJ",5.906475296546
+"Biomass",2040,"SSP2-2.6","EJ",0.2597106
+"Biomass (CCS)",2040,"SSP2-2.6","EJ",0.0596387
+"Coal",2040,"SSP2-2.6","EJ",7.618338
+"Coal (CCS)",2040,"SSP2-2.6","EJ",0.319488
+"Gas",2040,"SSP2-2.6","EJ",4.976784
+"Gas (CCS)",2040,"SSP2-2.6","EJ",0.41146
+"Liquids",2040,"SSP2-2.6","EJ",0.1294937
+"Liquids (CCS)",2040,"SSP2-2.6","EJ",0.0289211
+"Nuclear",2040,"SSP2-2.6","EJ",4.22092
+"Other renewable",2040,"SSP2-2.6","EJ",6.710049195446
+"Biomass",2050,"SSP2-2.6","EJ",0.337553
+"Biomass (CCS)",2050,"SSP2-2.6","EJ",0.2040656
+"Coal",2050,"SSP2-2.6","EJ",5.969617
+"Coal (CCS)",2050,"SSP2-2.6","EJ",0.899882
+"Gas",2050,"SSP2-2.6","EJ",4.815673
+"Gas (CCS)",2050,"SSP2-2.6","EJ",0.93673
+"Liquids",2050,"SSP2-2.6","EJ",0.1117134
+"Liquids (CCS)",2050,"SSP2-2.6","EJ",0.0621082
+"Nuclear",2050,"SSP2-2.6","EJ",5.45453
+"Other renewable",2050,"SSP2-2.6","EJ",8.49018972015
+"Biomass",2020,"SSP5-2.6","EJ",0.101353
+"Biomass (CCS)",2020,"SSP5-2.6","EJ",0
+"Coal",2020,"SSP5-2.6","EJ",8.6496
+"Coal (CCS)",2020,"SSP5-2.6","EJ",0
+"Gas",2020,"SSP5-2.6","EJ",4.5876
+"Gas (CCS)",2020,"SSP5-2.6","EJ",0
+"Liquids",2020,"SSP5-2.6","EJ",0.1210771
+"Liquids (CCS)",2020,"SSP5-2.6","EJ",0
+"Nuclear",2020,"SSP5-2.6","EJ",3.369029
+"Other renewable",2020,"SSP5-2.6","EJ",5.304580941014
+"Biomass",2030,"SSP5-2.6","EJ",0.1926353
+"Biomass (CCS)",2030,"SSP5-2.6","EJ",0.01758541
+"Coal",2030,"SSP5-2.6","EJ",9.390002
+"Coal (CCS)",2030,"SSP5-2.6","EJ",0.1171065
+"Gas",2030,"SSP5-2.6","EJ",6.07159
+"Gas (CCS)",2030,"SSP5-2.6","EJ",0.207631
+"Liquids",2030,"SSP5-2.6","EJ",0.1756387
+"Liquids (CCS)",2030,"SSP5-2.6","EJ",0.0147038
+"Nuclear",2030,"SSP5-2.6","EJ",4.0324
+"Other renewable",2030,"SSP5-2.6","EJ",6.174015631394
+"Biomass",2040,"SSP5-2.6","EJ",0.285889
+"Biomass (CCS)",2040,"SSP5-2.6","EJ",0.37063
+"Coal",2040,"SSP5-2.6","EJ",6.921318
+"Coal (CCS)",2040,"SSP5-2.6","EJ",1.348687
+"Gas",2040,"SSP5-2.6","EJ",6.689067
+"Gas (CCS)",2040,"SSP5-2.6","EJ",1.53186
+"Liquids",2040,"SSP5-2.6","EJ",0.1610762
+"Liquids (CCS)",2040,"SSP5-2.6","EJ",0.117311
+"Nuclear",2040,"SSP5-2.6","EJ",6.06075
+"Other renewable",2040,"SSP5-2.6","EJ",8.015682629074
+"Biomass",2050,"SSP5-2.6","EJ",0.1609014
+"Biomass (CCS)",2050,"SSP5-2.6","EJ",1.615918
+"Coal",2050,"SSP5-2.6","EJ",1.911753
+"Coal (CCS)",2050,"SSP5-2.6","EJ",4.21853
+"Gas",2050,"SSP5-2.6","EJ",5.704771
+"Gas (CCS)",2050,"SSP5-2.6","EJ",4.83073
+"Liquids",2050,"SSP5-2.6","EJ",0.0770564
+"Liquids (CCS)",2050,"SSP5-2.6","EJ",0.298756
+"Nuclear",2050,"SSP5-2.6","EJ",9.536169
+"Other renewable",2050,"SSP5-2.6","EJ",11.37822863234

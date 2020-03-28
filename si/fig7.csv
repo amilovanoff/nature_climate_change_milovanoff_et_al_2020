@@ -1,0 +1,73 @@
+"Year","Scenario","Input","Value","Unit"
+2020,"SSP1-2.6","Combustion 
+ Natural gas",15171631494,"kg CO2"
+2030,"SSP1-2.6","Combustion 
+ Natural gas",43131336675,"kg CO2"
+2040,"SSP1-2.6","Combustion 
+ Natural gas",64324301150,"kg CO2"
+2050,"SSP1-2.6","Combustion 
+ Natural gas",77542019571,"kg CO2"
+2020,"SSP2-2.6","Combustion 
+ Natural gas",18187979750,"kg CO2"
+2030,"SSP2-2.6","Combustion 
+ Natural gas",53890843199,"kg CO2"
+2040,"SSP2-2.6","Combustion 
+ Natural gas",83477527701,"kg CO2"
+2050,"SSP2-2.6","Combustion 
+ Natural gas",104552241327,"kg CO2"
+2020,"SSP5-2.6","Combustion 
+ Natural gas",17626732500,"kg CO2"
+2030,"SSP5-2.6","Combustion 
+ Natural gas",52070605180,"kg CO2"
+2040,"SSP5-2.6","Combustion 
+ Natural gas",81391297821,"kg CO2"
+2050,"SSP5-2.6","Combustion 
+ Natural gas",105747087097,"kg CO2"
+2020,"SSP1-2.6","Upstream 
+ Electricity",4848046817.99856,"kg CO2"
+2030,"SSP1-2.6","Upstream 
+ Electricity",18412427245.8944,"kg CO2"
+2040,"SSP1-2.6","Upstream 
+ Electricity",28484430192.5189,"kg CO2"
+2050,"SSP1-2.6","Upstream 
+ Electricity",33372283716.1965,"kg CO2"
+2020,"SSP2-2.6","Upstream 
+ Electricity",5011515788.6421,"kg CO2"
+2030,"SSP2-2.6","Upstream 
+ Electricity",20327661337.5727,"kg CO2"
+2040,"SSP2-2.6","Upstream 
+ Electricity",34433482390.5141,"kg CO2"
+2050,"SSP2-2.6","Upstream 
+ Electricity",40964110532.7925,"kg CO2"
+2020,"SSP5-2.6","Upstream 
+ Electricity",4868100813.54439,"kg CO2"
+2030,"SSP5-2.6","Upstream 
+ Electricity",19584082294.7469,"kg CO2"
+2040,"SSP5-2.6","Upstream 
+ Electricity",25924471035.521,"kg CO2"
+2050,"SSP5-2.6","Upstream 
+ Electricity",12523270184.0503,"kg CO2"
+2020,"SSP1-2.6","Combustion 
+ Refined liquids",982278419492.905,"kg CO2"
+2030,"SSP1-2.6","Combustion 
+ Refined liquids",828554402896.517,"kg CO2"
+2040,"SSP1-2.6","Combustion 
+ Refined liquids",667362724492.85,"kg CO2"
+2050,"SSP1-2.6","Combustion 
+ Refined liquids",533372766687.444,"kg CO2"
+2020,"SSP2-2.6","Combustion 
+ Refined liquids",1028611638198.7,"kg CO2"
+2030,"SSP2-2.6","Combustion 
+ Refined liquids",926636893935.794,"kg CO2"
+2040,"SSP2-2.6","Combustion 
+ Refined liquids",783503251931.076,"kg CO2"
+2050,"SSP2-2.6","Combustion 
+ Refined liquids",629305411416.022,"kg CO2"
+2020,"SSP5-2.6","Combustion 
+ Refined liquids",1032290900159.52,"kg CO2"
+2030,"SSP5-2.6","Combustion 
+ Refined liquids",943943475131.39,"kg CO2"
+2040,"SSP5-2.6","Combustion 
+ Refined liquids",801849982767.95,"kg CO2"
+2050,"SSP5-2.6","Combustion 
+ Refined liquids",624078078084.924,"kg CO2"
