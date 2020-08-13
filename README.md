@@ -1,4 +1,4 @@
-This repository contains the raw data of the inputs and results presented in the paper "**Will technology save the climate? The challenge of light-duty vehicle fleet electrification**" published in Nature Climate Change (2020) by Alexandre Milovanoff<sup>a</sup>, I. Daniel Posen<sup>a</sup>, Heather L. MacLean<sup>a</sup>.  
+This repository contains the raw data of the inputs and results presented in the paper "**Electrification of light-duty vehicle fleet alone will not meet mitigation targets**" published in Nature Climate Change (2020) by Alexandre Milovanoff<sup>a</sup>, I. Daniel Posen<sup>a</sup>, Heather L. MacLean<sup>a</sup>.  
 <sup>a</sup> Department of Civil & Mineral Engineering, University of Toronto, 35 St. George Street, Toronto, Ontario, M5S 1A4 Canada  
 
 # How to use this repository
